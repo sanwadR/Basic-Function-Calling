@@ -41,7 +41,17 @@ Supported tools:
 | `convert_currency`| Converts currencies using latest rate |
 | `search_web`     | Performs live Google search         |
 
-
+## 1. COpy this 
 ```bash
 git clone https://github.com/your-username/tool-enabled-chatbot.git
 cd tool-enabled-chatbot
+
+## 2. Install dependencies
+```bash
+pip install streamlit openai requests python-dotenv
+
+## 3. Run the Application
+```bash
+streamlit run app.py
+
+
