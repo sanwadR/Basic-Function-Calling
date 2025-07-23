@@ -19,13 +19,6 @@ This project is a **Streamlit-based AI assistant** powered by **Azure OpenAI (GP
 
 ---
 
-## 📷 Demo
-
-![App Screenshot](https://via.placeholder.com/800x400?text=Your+Screenshot+Here)
-
-
-
----
 
 ## 🧠 How It Works
 
