@@ -45,13 +45,13 @@ Supported tools:
 ```bash
 git clone https://github.com/your-username/tool-enabled-chatbot.git
 cd tool-enabled-chatbot
-
+```
 ## 2. Install dependencies
 ```bash
 pip install streamlit openai requests python-dotenv
-
+```
 ## 3. Run the Application
 ```bash
 streamlit run app.py
-
+``` 
 
