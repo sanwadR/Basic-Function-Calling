@@ -41,7 +41,7 @@ Supported tools:
 | `convert_currency`| Converts currencies using latest rate |
 | `search_web`     | Performs live Google search         |
 
----
 
-
-
+```bash
+git clone https://github.com/your-username/tool-enabled-chatbot.git
+cd tool-enabled-chatbot
