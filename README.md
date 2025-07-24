@@ -36,8 +36,8 @@ Supported tools:
 
 ## 1. COpy this 
 ```bash
-git clone https://github.com/your-username/tool-enabled-chatbot.git
-cd tool-enabled-chatbot
+git clone https://github.com/sanwadR/Basic-Function-Calling.git
+cd Basic-Function-Calling
 ```
 ## 2. Install dependencies
 ```bash
